@@ -26,8 +26,8 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/today.png",
-          "sizes": "512x512"
+          "scr": "/images/logo192.png",
+          "sizes": "192x192"
         }
       ]
     },
@@ -38,8 +38,8 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/tomorrow.png",
-          "sizes": "512x512"
+          "scr": "/images/logo192.png",
+          "sizes": "192x192"
         }
       ]
     }
