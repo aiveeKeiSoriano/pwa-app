@@ -26,7 +26,7 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/today.png",
+          "src": "/images/today.png",
           "sizes": "192x192"
         }
       ]
@@ -38,7 +38,7 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/tomorrow.png",
+          "src": "/images/tomorrow.png",
           "sizes": "192x192"
         }
       ]
