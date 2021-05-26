@@ -15,7 +15,7 @@
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "192x192"
     }
   ],
   "shortcuts": [
@@ -26,7 +26,7 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/logo192.png",
+          "scr": "/images/today.png",
           "sizes": "192x192"
         }
       ]
@@ -38,7 +38,7 @@
       "url": "/today?source=pwa",
       "icons": [
         {
-          "scr": "/images/logo192.png",
+          "scr": "/images/tomorrow.png",
           "sizes": "192x192"
         }
       ]
